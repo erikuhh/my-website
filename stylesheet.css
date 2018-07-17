@@ -1,0 +1,40 @@
+h1 {
+  color: hotpink;
+  front-size: 1em;
+  font-wight: bold;
+}
+
+h1 {
+  font-family: "Courier", monospace;
+}
+
+#introPar {
+  color: black;
+  font-size: 1em;
+}
+
+#img {
+  display: inline-block;
+
+}
+
+#img2 {
+  display: inline-block;
+
+}
+
+p {
+  font-family: "Courier", monospace;
+}
+
+h3 {
+  font-family: "Courier", monospace;
+}
+
+h5 {
+  font-family: "Courier", monospace;
+}
+
+body {
+  font-family: "Courier", monospace;
+}
